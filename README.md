@@ -17,3 +17,7 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+
+dependencies {
+    implementation 'com.github.poddaravishak:EtercesToast:Tag'
+}
