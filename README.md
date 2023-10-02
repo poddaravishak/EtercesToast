@@ -1,9 +1,11 @@
 # EtercesToast
 
 > setp .1
-...allprojects {
+...
+allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
+...
