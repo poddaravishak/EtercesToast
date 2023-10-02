@@ -17,7 +17,11 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+```
+### Step 1: Add the JitPack repository to your root build.gradle
 
+```
 dependencies {
     implementation 'com.github.poddaravishak:EtercesToast:Tag'
-}
+} 
+```
