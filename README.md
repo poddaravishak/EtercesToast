@@ -18,7 +18,7 @@ allprojects {
     }
 }
 ```
-### Step 1: Add the JitPack repository to your root build.gradle
+### Step 2: Add the JitPack repository to your root build.gradle
 
 ```
 dependencies {
